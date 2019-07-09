@@ -1,0 +1,13 @@
+.plugin-sidebar-content {
+	display: block;
+	width: 100%;
+}
+
+.wpengine-show-page-template-label {
+
+}
+
+.wpengine-show-page-template-value {
+	float: right;
+	font-weight: bold;
+}
